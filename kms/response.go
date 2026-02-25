@@ -12,10 +12,10 @@ import (
 	"time"
 
 	"aead.dev/mtls"
-	"github.com/minio/kms-go/kms/cmds"
-	"github.com/minio/kms-go/kms/internal/headers"
-	"github.com/minio/kms-go/kms/internal/pool"
-	pb "github.com/minio/kms-go/kms/protobuf"
+	"github.com/stanford-rc/minio-kms-go/kms/cmds"
+	"github.com/stanford-rc/minio-kms-go/kms/internal/headers"
+	"github.com/stanford-rc/minio-kms-go/kms/internal/pool"
+	pb "github.com/stanford-rc/minio-kms-go/kms/protobuf"
 	"google.golang.org/protobuf/encoding/protojson"
 	"google.golang.org/protobuf/proto"
 )

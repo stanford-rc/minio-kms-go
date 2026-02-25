@@ -11,8 +11,8 @@ import (
 	"time"
 
 	"aead.dev/mtls"
-	"github.com/minio/kms-go/kms/cmds"
-	pb "github.com/minio/kms-go/kms/protobuf"
+	"github.com/stanford-rc/minio-kms-go/kms/cmds"
+	pb "github.com/stanford-rc/minio-kms-go/kms/protobuf"
 )
 
 // Request is a structure describing a KMS request.

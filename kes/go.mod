@@ -1,4 +1,4 @@
-module github.com/minio/kms-go/kes
+module github.com/stanford-rc/minio-kms-go/kes
 
 go 1.24
 
